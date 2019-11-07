@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800006699440",
+    "firebase_url": "https://ddrreeaamm-7927f.firebaseio.com",
+    "project_id": "ddrreeaamm-7927f",
+    "storage_bucket": "ddrreeaamm-7927f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:b06d44d57f33f10c",
+        "android_client_info": {
+          "package_name": "dreamforone.com.taptoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-s708bopiijnvc0lig2kd145nov7bgdaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dreamforone.com.taptoc",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8tfl5defiiaemrrse2b9ra5rqko8uk7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-efcj0vp8mevv87qhj2bcpe1784ouardp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.meduplu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

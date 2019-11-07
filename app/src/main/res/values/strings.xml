@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">탭톡</string>
+    <string name="url">http://www.taptoc.co.kr/index.php</string>
+    <string name="teacher_url">http://www.taptoc.co.kr/teacher/</string>
+    <string name="student_url">http://www.taptoc.co.kr/student/</string>
+    <string name="domain">http://www.taptoc.co.kr/</string>
+    <string name="default_notification_channel_id">tabtoc</string>
+</resources>
